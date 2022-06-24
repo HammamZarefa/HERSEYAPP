@@ -94,6 +94,11 @@
         -moz-transition: all 0.5s ease-in-out;
         text-align: center;
     }
+    .ls-phone img {
+        width: 100%;
+        position: relative;
+        left: 44px;
+    }
 }
 
 

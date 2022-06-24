@@ -525,15 +525,15 @@ section.close-up .landscape-phone {
 }
 
 .magni_con img {
-    width: 50%;
+    width: 40%;
     box-shadow: none !important;
-    height: 800px;
+    height: 600px;
 }
 
 #mlens_wrapper_0 {
     width: 100% !important;
     position: relative;
-    left: 250px;
+    left: 300px;
 }
 
 .ls-phone {
